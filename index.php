@@ -122,15 +122,6 @@ height:111px;
 
 
 
-
-       <!-- <div class="anons">
-  <img src="catalog/view/theme/default/image/car2.jpg" alt="">
-  <img src="catalog/view/theme/default/image/car2.jpg" alt="">
-  <img src="catalog/view/theme/default/image/avto.jpg" alt=""> 
-
-
-
- </div>-->
 <div id="menu2">
  
 <div id="prod">
@@ -202,9 +193,9 @@ height:111px;
 </div>
     <div class="otz"><div class="welcome">Отзывы покупателей</div>
 <p>
-	Автор:Андрей    16.12.13</p>
+	Автор:Петрушка    16.12.13</p>
 <p>
-Тут будет отзыв,давно так фильм не держал в напряжении и не заставлял сопереживать главному герою..оскар дадут однозначно</p></div>    
+Скоро тут что-то напишут.</p></div>    
 <div class="timer_box">
 
 <div class="name">postel</div>
@@ -234,19 +225,19 @@ height:111px;
 			</div>
 
 			<div class="dash hours_dash" style="text-align:center;" >
-				<span class="dash_title">часов</span>
+				<span class="dash_title">hours</span>
 				<div class="digit">0</div>
 				<div class="digit">4</div>
 			</div>
 
 			<div class="dash minutes_dash">
-				<span class="dash_title">минут</span>
+				<span class="dash_title">minutes</span>
 				<div class="digit">0</div>
 				<div class="digit">2</div>
 			</div>
 
 			<div class="dash seconds_dash"  >
-				<span class="dash_title" >секунд</span>
+				<span class="dash_title" >swcond</span>
 				<div class="digit">6</div>
 				<div class="digit">0</div>
 			</div>
@@ -274,7 +265,7 @@ height:111px;
 
 
 <div class="box box2">
-  <div class="box-heading op2">Новинки</div>
+  <div class="box-heading op2">News</div>
   <div class="box-content box-content2" >
     <div class="box-product">
             <div>
